@@ -1,0 +1,4 @@
+tornado==6.2
+pdbpp
+requests
+ipython
